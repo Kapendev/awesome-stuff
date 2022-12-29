@@ -4,6 +4,10 @@ My personal awesome list of random stuff.
 
 > "Most of them are full of shit and are more about promoting that shit than anything else." (rwxrob,  WWW)
 
+## Useful Websites
+
+* [Quetre](https://quetre.iket.me/)
+
 ## Configuration Files
 
 * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
