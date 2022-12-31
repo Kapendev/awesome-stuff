@@ -4,9 +4,10 @@ My personal awesome list of random stuff.
 
 > "Most of them are full of shit and are more about promoting that shit than anything else." (rwxrob,  WWW)
 
-## Useful Websites
+## Useful Videos
 
-* [Quetre](https://quetre.iket.me/)
+[Martin Donald](https://www.youtube.com/@MartinDonald/videos)
+[Understanding Maps without Code](https://www.youtube.com/@understandingmapswithoutco5674/videos)
 
 ## Configuration Files
 
