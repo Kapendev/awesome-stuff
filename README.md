@@ -6,8 +6,8 @@ My personal awesome list of random stuff.
 
 ## Useful Videos
 
-[Martin Donald](https://www.youtube.com/@MartinDonald/videos)
-[Understanding Maps without Code](https://www.youtube.com/@understandingmapswithoutco5674/videos)
+* [Martin Donald](https://www.youtube.com/@MartinDonald/videos)
+* [Understanding Maps without Code](https://www.youtube.com/@understandingmapswithoutco5674/videos)
 
 ## Configuration Files
 
